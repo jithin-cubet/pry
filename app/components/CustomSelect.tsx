@@ -46,8 +46,6 @@ const CustomSelect: React.FC<CustomSelectProps> = ({ options }) => {
     setSelected(newSelected);
   };
 
-  console.log(selected);
-
   return (
     <div>
       <div
